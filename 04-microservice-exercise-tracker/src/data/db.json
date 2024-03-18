@@ -1,0 +1,73 @@
+{
+  "users": [
+    {
+      "_id": "817175b6-cca1-4a79-8921-9761acc4fd76",
+      "username": "papotico23",
+      "log": [
+        {
+          "description": "papolon23",
+          "duration": 60,
+          "date": "Mon Mar 18 2024"
+        }
+      ]
+    },
+    {
+      "_id": "ec046ee2-8142-40b2-8dc0-a2fc2f6d3e1e",
+      "username": "papolonlakabra",
+      "log": [
+        {
+          "description": "papolonlakabra",
+          "duration": 60,
+          "date": "Mon Mar 18 2024"
+        }
+      ]
+    },
+    {
+      "_id": "b8d80581-c7b7-4187-8613-8a1d3a4f2695",
+      "username": "cocotico",
+      "log": [
+        {
+          "description": "cocotico",
+          "duration": 24,
+          "date": "Sat Dec 30 2023"
+        }
+      ]
+    },
+    {
+      "_id": "347541ce-3699-41bb-b0ac-85b27e5b78f1",
+      "username": "kali23",
+      "log": [
+        {
+          "description": "kali23",
+          "duration": 14,
+          "date": "Mon Dec 30 2024"
+        }
+      ]
+    },
+    {
+      "_id": "ceeba3bd-6ec4-4aad-9785-da2c202cb5f0",
+      "username": "kalibree23",
+      "log": [
+        {
+          "description": "kalibreelacabraloca23",
+          "duration": 20,
+          "date": "Mon Mar 18 2024"
+        },
+        {
+          "description": "kalibreelacabraloca23",
+          "duration": 20,
+          "date": "Mon Mar 18 2024"
+        },
+        {
+          "description": "kalibreelacabraloca23",
+          "duration": 20,
+          "date": "Mon Mar 18 2024"
+        }
+      ]
+    },
+    {
+      "_id": "f18ebff7-8813-4383-8f07-537286aaeec5",
+      "username": "kalibreelacabraloca23"
+    }
+  ]
+}
